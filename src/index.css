@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+/* ========================================
+   NEXORA — HYBRID PREMIUM THEME
+======================================== */
+
+@theme {
+  /* ---------- Brand ---------- */
+
+  --color-nexora-primary: #123f32;
+  --color-nexora-primary-hover: #0d3026;
+  --color-nexora-primary-soft: #dce8e1;
+
+  /* ---------- Backgrounds ---------- */
+
+  --color-nexora-ivory: #faf7f0;
+  --color-nexora-surface: #fffdf8;
+
+  /* ---------- Supporting ---------- */
+
+  --color-nexora-taupe: #a18d80;
+  --color-nexora-taupe-soft: #e8dfd8;
+
+  --color-nexora-copper: #a65e3b;
+  --color-nexora-copper-soft: #ead5ca;
+
+  /* ---------- Text ---------- */
+
+  --color-nexora-text: #18231f;
+  --color-nexora-muted: #6f7772;
+
+  /* ---------- Borders ---------- */
+
+  --color-nexora-border: #e3ded5;
+}
+
+/* ========================================
+   GLOBAL BASE
+======================================== */
+
+@layer base {
+  html {
+    background-color: var(--color-nexora-ivory);
+  }
+
+  body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+
+    background-color: var(--color-nexora-ivory);
+    color: var(--color-nexora-text);
+
+    font-family:
+      Inter,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+  }
+
+  button,
+  a {
+    transition:
+      background-color 200ms ease,
+      color 200ms ease,
+      border-color 200ms ease,
+      opacity 200ms ease;
+  }
+}

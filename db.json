@@ -1,0 +1,2613 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "NEXORA Pro Gaming Laptop",
+      "brand": "NEXORA",
+      "category": "Laptops",
+      "price": 89999,
+      "stock": 28,
+      "rating": 4.7,
+      "reviewCount": 86,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600"
+      ],
+      "description": "A high-performance gaming laptop designed for gaming, development, and demanding workloads.",
+      "hasVariants": true,
+      "variants": [
+        {
+          "id": "1-16-512",
+          "label": "16GB / 512GB",
+          "attributes": {
+            "RAM": "16GB",
+            "Storage": "512GB"
+          },
+          "price": 89999,
+          "stock": 10
+        },
+        {
+          "id": "1-16-1tb",
+          "label": "16GB / 1TB",
+          "attributes": {
+            "RAM": "16GB",
+            "Storage": "1TB"
+          },
+          "price": 94999,
+          "stock": 10
+        },
+        {
+          "id": "1-32-1tb",
+          "label": "32GB / 1TB",
+          "attributes": {
+            "RAM": "32GB",
+            "Storage": "1TB"
+          },
+          "price": 103999,
+          "stock": 8
+        }
+      ],
+      "specifications": {
+        "processor": "Intel Core i7",
+        "memory": "16GB RAM",
+        "storage": "1TB SSD",
+        "graphics": "NVIDIA RTX",
+        "display": "15.6-inch",
+        "refreshRate": "144Hz"
+      },
+      "returnEligible": true,
+      "returnWindowDays": 7,
+      "replacementEligible": true,
+      "replacementWindowDays": 7
+    },
+    {
+      "id": "2",
+      "name": "NEXORA RTX 5070",
+      "brand": "NEXORA",
+      "category": "Graphics Cards",
+      "price": 64999,
+      "stock": 13,
+      "rating": 4.8,
+      "reviewCount": 124,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600"
+      ],
+      "description": "A powerful graphics card designed for high-resolution gaming and demanding creative workloads.",
+      "specifications": {
+        "memory": "12GB GDDR7",
+        "interface": "PCIe 5.0",
+        "architecture": "Blackwell",
+        "rayTracing": "Yes"
+      },
+      "returnEligible": true,
+      "returnWindowDays": 7,
+      "replacementEligible": true,
+      "replacementWindowDays": 7
+    },
+    {
+      "id": "3",
+      "name": "NEXORA Core Ultra 7",
+      "brand": "NEXORA",
+      "category": "Processors",
+      "price": 38999,
+      "stock": 10,
+      "rating": 4.6,
+      "reviewCount": 92,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600"
+      ],
+      "description": "A modern high-performance processor built for gaming, development, and multitasking.",
+      "specifications": {
+        "cores": "20",
+        "threads": "28",
+        "socket": "LGA 1851",
+        "baseClock": "3.6GHz"
+      }
+    },
+    {
+      "id": "4",
+      "name": "NEXORA UltraView 27",
+      "brand": "NEXORA",
+      "category": "Monitors",
+      "price": 32999,
+      "stock": 10,
+      "rating": 4.7,
+      "reviewCount": 73,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A premium 27-inch gaming monitor with a fast refresh rate and sharp image quality.",
+      "specifications": {
+        "display": "27-inch",
+        "resolution": "2560x1440",
+        "refreshRate": "180Hz",
+        "panel": "IPS"
+      }
+    },
+    {
+      "id": "5",
+      "name": "NEXORA Mechanical Pro",
+      "brand": "NEXORA",
+      "category": "Keyboards",
+      "price": 7999,
+      "stock": 24,
+      "rating": 4.5,
+      "reviewCount": 61,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A compact mechanical keyboard designed for gaming and long coding sessions.",
+      "specifications": {
+        "layout": "75%",
+        "switches": "Mechanical",
+        "connection": "USB-C",
+        "backlight": "RGB"
+      }
+    },
+    {
+      "id": "6",
+      "name": "NEXORA Precision X",
+      "brand": "NEXORA",
+      "category": "Mice",
+      "price": 4999,
+      "stock": 35,
+      "rating": 4.6,
+      "reviewCount": 48,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A lightweight precision gaming mouse with a responsive sensor and ergonomic design.",
+      "specifications": {
+        "sensor": "26K DPI",
+        "weight": "65g",
+        "connection": "Wireless",
+        "buttons": "6"
+      }
+    },
+    {
+      "id": "7",
+      "name": "NEXORA Immersive H7",
+      "brand": "NEXORA",
+      "category": "Headsets",
+      "price": 10999,
+      "stock": 17,
+      "rating": 4.7,
+      "reviewCount": 57,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A wireless gaming headset designed for immersive audio, communication, and long sessions.",
+      "specifications": {
+        "connection": "Wireless",
+        "microphone": "Detachable",
+        "battery": "40 hours",
+        "audio": "7.1 Surround"
+      }
+    },
+    {
+      "id": "8",
+      "name": "NEXORA SpeedSSD 2TB",
+      "brand": "NEXORA",
+      "category": "SSDs",
+      "price": 13999,
+      "stock": 20,
+      "rating": 4.8,
+      "reviewCount": 101,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A high-speed NVMe SSD designed for fast boot times, applications, games, and development workloads.",
+      "specifications": {
+        "capacity": "2TB",
+        "interface": "PCIe 4.0",
+        "readSpeed": "7400MB/s",
+        "formFactor": "M.2"
+      }
+    },
+    {
+      "id": "9",
+      "name": "NEXORA Titan X15",
+      "brand": "NEXORA",
+      "category": "Laptops",
+      "price": 119999,
+      "stock": 0,
+      "rating": 4.8,
+      "reviewCount": 94,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A high-performance gaming laptop built for demanding games, development, and creative workloads.",
+      "specifications": {
+        "processor": "Intel Core i7",
+        "ram": "32GB DDR5",
+        "storage": "1TB NVMe SSD",
+        "graphics": "NVIDIA RTX 5070",
+        "display": "15.6-inch QHD 165Hz"
+      }
+    },
+    {
+      "id": "10",
+      "name": "NEXORA Velocity 16",
+      "brand": "NEXORA",
+      "category": "Laptops",
+      "price": 94999,
+      "stock": 7,
+      "rating": 4.7,
+      "reviewCount": 76,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A balanced performance laptop designed for gaming, productivity, and everyday development.",
+      "specifications": {
+        "processor": "AMD Ryzen 7",
+        "ram": "16GB DDR5",
+        "storage": "1TB NVMe SSD",
+        "graphics": "NVIDIA RTX 5060",
+        "display": "16-inch QHD 165Hz"
+      }
+    },
+    {
+      "id": "11",
+      "name": "NEXORA EdgeBook 14",
+      "brand": "NEXORA",
+      "category": "Laptops",
+      "price": 74999,
+      "stock": 13,
+      "rating": 4.6,
+      "reviewCount": 63,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600"
+      ],
+      "description": "A slim and portable laptop designed for students, developers, and professionals.",
+      "specifications": {
+        "processor": "Intel Core Ultra 5",
+        "ram": "16GB DDR5",
+        "storage": "512GB NVMe SSD",
+        "graphics": "Integrated Graphics",
+        "display": "14-inch 2.8K 120Hz"
+      },
+      "returnEligible": true,
+      "returnWindowDays": 7,
+      "replacementEligible": true,
+      "replacementWindowDays": 7
+    },
+    {
+      "id": "12",
+      "name": "NEXORA RTX 5060",
+      "brand": "NEXORA",
+      "category": "Graphics Cards",
+      "price": 42999,
+      "stock": 11,
+      "rating": 4.7,
+      "reviewCount": 88,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A modern gaming graphics card designed for high-frame-rate 1440p gaming.",
+      "specifications": {
+        "memory": "8GB GDDR7",
+        "interface": "PCIe 5.0",
+        "boostClock": "2.7GHz",
+        "rayTracing": "Supported",
+        "recommendedPower": "600W"
+      }
+    },
+    {
+      "id": "13",
+      "name": "NEXORA RTX 5080",
+      "brand": "NEXORA",
+      "category": "Graphics Cards",
+      "price": 124999,
+      "stock": 5,
+      "rating": 4.9,
+      "reviewCount": 142,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A flagship-class graphics card engineered for extreme gaming and creative workloads.",
+      "specifications": {
+        "memory": "16GB GDDR7",
+        "interface": "PCIe 5.0",
+        "boostClock": "2.8GHz",
+        "rayTracing": "Supported",
+        "recommendedPower": "850W"
+      }
+    },
+    {
+      "id": "14",
+      "name": "NEXORA Core Ultra 5",
+      "brand": "NEXORA",
+      "category": "Processors",
+      "price": 24999,
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 71,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "An efficient modern processor designed for gaming, development, and everyday productivity.",
+      "specifications": {
+        "cores": "14 Cores",
+        "threads": "18 Threads",
+        "baseClock": "3.2GHz",
+        "boostClock": "4.8GHz",
+        "socket": "LGA1851"
+      }
+    },
+    {
+      "id": "15",
+      "name": "NEXORA Ryzen X8",
+      "brand": "NEXORA",
+      "category": "Processors",
+      "price": 45999,
+      "stock": 11,
+      "rating": 4.8,
+      "reviewCount": 103,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A powerful multi-core processor built for gaming, streaming, and intensive development workloads.",
+      "specifications": {
+        "cores": "16 Cores",
+        "threads": "32 Threads",
+        "baseClock": "4.2GHz",
+        "boostClock": "5.4GHz",
+        "socket": "AM5"
+      }
+    },
+    {
+      "id": "16",
+      "name": "NEXORA UltraView 32",
+      "brand": "NEXORA",
+      "category": "Monitors",
+      "price": 54999,
+      "stock": 9,
+      "rating": 4.8,
+      "reviewCount": 82,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A large high-resolution gaming monitor designed for immersive gaming and creative work.",
+      "specifications": {
+        "size": "32-inch",
+        "resolution": "4K UHD",
+        "refreshRate": "165Hz",
+        "panel": "IPS",
+        "responseTime": "1ms"
+      }
+    },
+    {
+      "id": "17",
+      "name": "NEXORA Arena 24",
+      "brand": "NEXORA",
+      "category": "Monitors",
+      "price": 18999,
+      "stock": 20,
+      "rating": 4.5,
+      "reviewCount": 57,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A fast and affordable gaming monitor designed for competitive gameplay.",
+      "specifications": {
+        "size": "24-inch",
+        "resolution": "Full HD",
+        "refreshRate": "180Hz",
+        "panel": "IPS",
+        "responseTime": "1ms"
+      }
+    },
+    {
+      "id": "18",
+      "name": "NEXORA Compact 75",
+      "brand": "NEXORA",
+      "category": "Keyboards",
+      "price": 6999,
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 69,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A compact mechanical keyboard designed for gaming setups and efficient desk spaces.",
+      "specifications": {
+        "layout": "75%",
+        "switches": "Mechanical Linear",
+        "connection": "USB-C / Wireless",
+        "backlight": "RGB",
+        "pollingRate": "1000Hz"
+      }
+    },
+    {
+      "id": "19",
+      "name": "NEXORA RGB Strike",
+      "brand": "NEXORA",
+      "category": "Keyboards",
+      "price": 9499,
+      "stock": 17,
+      "rating": 4.7,
+      "reviewCount": 84,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A full-size RGB mechanical keyboard built for competitive gaming and daily productivity.",
+      "specifications": {
+        "layout": "Full Size",
+        "switches": "Mechanical Tactile",
+        "connection": "USB-C",
+        "backlight": "Per-Key RGB",
+        "pollingRate": "1000Hz"
+      }
+    },
+    {
+      "id": "20",
+      "name": "NEXORA Swift Pro",
+      "brand": "NEXORA",
+      "category": "Mice",
+      "price": 5999,
+      "stock": 24,
+      "rating": 4.7,
+      "reviewCount": 91,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A lightweight wireless gaming mouse designed for fast and precise competitive play.",
+      "specifications": {
+        "sensor": "26K DPI Optical",
+        "weight": "62g",
+        "connection": "2.4GHz / Bluetooth",
+        "buttons": "6",
+        "pollingRate": "1000Hz"
+      }
+    },
+    {
+      "id": "21",
+      "name": "NEXORA Phantom X",
+      "brand": "NEXORA",
+      "category": "Mice",
+      "price": 8499,
+      "stock": 16,
+      "rating": 4.8,
+      "reviewCount": 74,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A premium ergonomic gaming mouse with high-precision tracking and wireless connectivity.",
+      "specifications": {
+        "sensor": "32K DPI Optical",
+        "weight": "68g",
+        "connection": "2.4GHz / Bluetooth",
+        "buttons": "8",
+        "pollingRate": "2000Hz"
+      }
+    },
+    {
+      "id": "22",
+      "name": "NEXORA Pulse H5",
+      "brand": "NEXORA",
+      "category": "Headsets",
+      "price": 7999,
+      "stock": 19,
+      "rating": 4.6,
+      "reviewCount": 66,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A wireless gaming headset with immersive audio and a low-latency connection.",
+      "specifications": {
+        "driver": "50mm",
+        "connection": "2.4GHz / Bluetooth",
+        "microphone": "Detachable",
+        "battery": "40 Hours",
+        "surround": "Virtual 7.1"
+      }
+    },
+    {
+      "id": "23",
+      "name": "NEXORA SpeedSSD 1TB",
+      "brand": "NEXORA",
+      "category": "SSDs",
+      "price": 7499,
+      "stock": 28,
+      "rating": 4.7,
+      "reviewCount": 113,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A high-speed NVMe SSD designed for fast boot times, gaming, and development workloads.",
+      "specifications": {
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 NVMe",
+        "readSpeed": "7400MB/s",
+        "writeSpeed": "6800MB/s",
+        "formFactor": "M.2 2280"
+      }
+    },
+    {
+      "id": "24",
+      "name": "NEXORA SpeedSSD 4TB",
+      "brand": "NEXORA",
+      "category": "SSDs",
+      "price": 28999,
+      "stock": 10,
+      "rating": 4.9,
+      "reviewCount": 97,
+      "thumbnail": "https://placehold.co/600x600",
+      "images": [
+        "https://placehold.co/600x600",
+        "https://placehold.co/600x600"
+      ],
+      "description": "A high-capacity performance SSD built for large game libraries, development environments, and creative workloads.",
+      "specifications": {
+        "capacity": "4TB",
+        "interface": "PCIe 4.0 NVMe",
+        "readSpeed": "7400MB/s",
+        "writeSpeed": "6800MB/s",
+        "formFactor": "M.2 2280"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "NEXORA Admin",
+      "email": "admin@nexora.com",
+      "password": "admin123",
+      "role": "admin",
+      "isBlocked": false
+    },
+    {
+      "name": "Vishnu",
+      "email": "vishnuvg167@gmail.com",
+      "password": "12345678",
+      "id": "PJWGbKyhGds",
+      "isBlocked": false
+    },
+    {
+      "name": "VISHNU VG",
+      "email": "vishnuvg17@gmail.com",
+      "password": "1234567",
+      "id": "2XJbg0GketU",
+      "isBlocked": false
+    },
+    {
+      "name": "Devika",
+      "email": "devika11@gmail.com",
+      "password": "123456",
+      "id": "3Ccgi25pTBI"
+    },
+    {
+      "name": "jishnu",
+      "email": "jishnu@gmail.com",
+      "password": "12345678",
+      "id": "TVmXT8qGQ0E"
+    },
+    {
+      "name": "dev",
+      "email": "dev@gmail.com",
+      "password": "1234",
+      "id": "litYH7FAnYY",
+      "isBlocked": false
+    },
+    {
+      "name": "dev1",
+      "email": "dev1@gmail.com",
+      "password": "12345",
+      "id": "TiTadr8ovOU"
+    },
+    {
+      "name": "Muzin",
+      "email": "muz@gmail.com",
+      "password": "1234",
+      "id": "X7Qvf-ytBp8"
+    },
+    {
+      "name": "fayas",
+      "email": "fga@gmail.com",
+      "password": "123456",
+      "id": "OQTMbWssR3g"
+    },
+    {
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "password": "123456",
+      "id": "B_UM7_UAZ1g"
+    },
+    {
+      "name": "***",
+      "email": "ff@g.n",
+      "password": "Vithul",
+      "role": "customer",
+      "isBlocked": false,
+      "id": "pDTcOXR66Zo"
+    },
+    {
+      "name": "Hisana Ismail",
+      "email": "hisanaismail55@gmail.com",
+      "password": "hiya123",
+      "role": "customer",
+      "isBlocked": false,
+      "id": "x0hOaDu36W8"
+    },
+    {
+      "name": "Jacob Joy",
+      "email": "jj@mail.com",
+      "password": "Jjjjjjjjjj",
+      "role": "customer",
+      "isBlocked": false,
+      "id": "X0VVtwDfiII"
+    },
+    {
+      "name": "sid",
+      "email": "sid@gmail.com",
+      "password": "123456",
+      "role": "customer",
+      "isBlocked": false,
+      "id": "TtsnhcU6ipw"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "https://placehold.co/600x600",
+          "stock": 8,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "status": "cancelled",
+      "createdAt": "2026-10-05T15:48:41.701Z",
+      "id": "Ay498q3fWsk"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "price": 89999,
+          "thumbnail": "https://placehold.co/600x600",
+          "stock": 10,
+          "quantity": 9
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 809991,
+      "shipping": 0,
+      "total": 809991,
+      "status": "processing",
+      "createdAt": "2026-10-05T15:56:59.340Z",
+      "id": "c_riQOf5apI"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "price": 89999,
+          "thumbnail": "https://placehold.co/600x600",
+          "stock": 1,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 89999,
+      "shipping": 0,
+      "total": 89999,
+      "status": "processing",
+      "createdAt": "2026-10-05T16:56:06.233Z",
+      "id": "d7W5RzTrB5o"
+    },
+    {
+      "userId": "3Ccgi25pTBI",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "https://placehold.co/600x600",
+          "stock": 8,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "devika ",
+        "email": "devika11@gmail.com",
+        "phone": "8138836533",
+        "address": "kodungallur",
+        "city": "kochi",
+        "pincode": "680666"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "status": "processing",
+      "createdAt": "2026-10-06T04:03:30.939Z",
+      "id": "xm12GSSN49U"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "10",
+          "name": "NEXORA Velocity 16",
+          "price": 94999,
+          "thumbnail": "/src/assets/products/NEXORA%20Velocity%2016.png",
+          "stock": 10,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/RTX%205070.jpg",
+          "stock": 7,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "2345676678",
+        "address": "THEVARA\nBP-01,P&T QUARTERS, OPPOSITE OF SH CMI SCHOOL",
+        "city": "Kochi",
+        "pincode": "682013"
+      },
+      "subtotal": 159998,
+      "shipping": 0,
+      "total": 159998,
+      "status": "shipped",
+      "createdAt": "2026-10-06T10:45:42.873Z",
+      "id": "SerfPcsygMI"
+    },
+    {
+      "userId": "OQTMbWssR3g",
+      "items": [
+        {
+          "id": "9",
+          "name": "NEXORA Titan X15",
+          "price": 119999,
+          "thumbnail": "/src/assets/products/NEXORA%20Titan%20X15.png",
+          "stock": 8,
+          "quantity": 1
+        },
+        {
+          "id": "10",
+          "name": "NEXORA Velocity 16",
+          "price": 94999,
+          "thumbnail": "/src/assets/products/NEXORA%20Velocity%2016.png",
+          "stock": 9,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "THEVARA\nBP-01,P&T QUARTERS, OPPOSITE OF SH CMI SCHOOL",
+        "city": "Kochi",
+        "pincode": "682013"
+      },
+      "subtotal": 214998,
+      "shipping": 0,
+      "total": 214998,
+      "status": "cancelled",
+      "createdAt": "2026-10-07T03:53:13.335Z",
+      "id": "1N6V1o7d4tQ"
+    },
+    {
+      "userId": "OQTMbWssR3g",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/RTX%205070.jpg",
+          "stock": 6,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "THEVARA\nBP-01,P&T QUARTERS, OPPOSITE OF SH CMI SCHOOL",
+        "city": "Kochi",
+        "pincode": "682013"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TktMShBGZYcrbL",
+      "status": "cancelled",
+      "createdAt": "2026-10-07T04:49:38.879Z",
+      "id": "EPOVor7RhbA"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/RTX%205070.jpg",
+          "stock": 5,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TkxRFiv46hnPkD",
+      "status": "cancelled",
+      "createdAt": "2026-10-07T08:48:13.052Z",
+      "id": "MJE2a7etBNM"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "5",
+          "name": "NEXORA Mechanical Pro",
+          "price": 7999,
+          "thumbnail": "/src/assets/products/Mec%20Key.jpg",
+          "stock": 25,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 7999,
+      "shipping": 0,
+      "total": 7999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TkyXOGzMvp5XGZ",
+      "status": "cancelled",
+      "createdAt": "2026-10-07T09:52:42.426Z",
+      "id": "mN7XsfoXqQo"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "9",
+          "name": "NEXORA Titan X15",
+          "price": 119999,
+          "thumbnail": "/src/assets/products/NEXORA%20Titan%20X15.png",
+          "stock": 7,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 119999,
+      "shipping": 0,
+      "total": 119999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TlJWxhaZU3ghpJ",
+      "status": "cancelled",
+      "createdAt": "2026-10-08T06:24:51.760Z",
+      "id": "1y-Nclz6214"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/RTX%205070.jpg",
+          "stock": 4,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "VISHNU VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_Tlk0aKGcADe50F",
+      "status": "delivered",
+      "createdAt": "2026-10-09T08:18:59.172Z",
+      "id": "JA75JkofmC8"
+    },
+    {
+      "userId": "B_UM7_UAZ1g",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/RTX%205070.jpg",
+          "stock": 2,
+          "quantity": 2
+        },
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/Monitor.jpg",
+          "stock": 12,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Mahesh",
+        "email": "mahesh@gmail.com",
+        "phone": "7907987165",
+        "address": "Sai Sadan,Nestle,Old theater road ,Nettor",
+        "city": "Kochi",
+        "pincode": "682040"
+      },
+      "subtotal": 162997,
+      "shipping": 0,
+      "total": 162997,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_Tlpkd6Y9Rdt6Hv",
+      "status": "delivered",
+      "createdAt": "2026-10-09T13:56:00.585Z",
+      "id": "AhUxrBOkdvA"
+    },
+    {
+      "userId": "3Ccgi25pTBI",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "price": 64999,
+          "thumbnail": "/src/assets/products/rtx5070-angle.png",
+          "stock": 10,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Devika",
+        "email": "devika11unnikrishnan@gmail.com",
+        "phone": "8138816533",
+        "address": "THEVARA\nBP-01,P&T QUARTERS, OPPOSITE OF SH CMI SCHOOL",
+        "city": "Kochi",
+        "pincode": "682013"
+      },
+      "subtotal": 64999,
+      "shipping": 0,
+      "total": 64999,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TmxJKOeAonudjR",
+      "status": "delivered",
+      "createdAt": "2026-10-12T09:58:44.667Z",
+      "id": "esioYUcF7iA"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "3",
+          "name": "NEXORA Core Ultra 7",
+          "price": 38999,
+          "thumbnail": "/src/assets/products/core-ultra7-front.png",
+          "stock": 15,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 38999,
+      "shipping": 0,
+      "total": 38999,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-13T05:00:53.244Z",
+      "id": "DibgTfFu8Us"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "3",
+          "name": "NEXORA Core Ultra 7",
+          "price": 38999,
+          "thumbnail": "/src/assets/products/core-ultra7-front.png",
+          "stock": 15,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 38999,
+      "shipping": 0,
+      "total": 38999,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-13T06:21:24.094Z",
+      "id": "uTHLyT-ntvI"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/ultraview27-front.png",
+          "stock": 11,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 32999,
+      "shipping": 0,
+      "total": 32999,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-13T06:33:25.675Z",
+      "id": "1nvSa2fa-vY"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/ultraview27-front.png",
+          "stock": 11,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 32999,
+      "discount": 3299.9,
+      "shipping": 0,
+      "total": 29699.1,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-13T07:19:10.786Z",
+      "id": "HJUkJQDp8YI"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/ultraview27-front.png",
+          "stock": 10,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 32999,
+      "discount": 0,
+      "shipping": 0,
+      "total": 32999,
+      "coupon": null,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-13T08:03:44.993Z",
+      "id": "c6EXzFzlpYE"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/ultraview27-front.png",
+          "stock": 10,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 32999,
+      "discount": 3299.9,
+      "shipping": 0,
+      "total": 29699.1,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TnJxxEstjdc6xL",
+      "status": "cancelled",
+      "createdAt": "2026-10-13T08:08:29.442Z",
+      "id": "Mhmu4EoNM4g"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "3",
+          "name": "NEXORA Core Ultra 7",
+          "price": 38999,
+          "thumbnail": "/src/assets/products/core-ultra7-front.png",
+          "stock": 13,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 38999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 33999,
+      "coupon": {
+        "id": "rwefi9iQPug",
+        "code": "NEXORA5000",
+        "type": "fixed",
+        "value": 5000,
+        "minOrder": 20000,
+        "maxDiscount": null
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-13T09:02:41.333Z",
+      "id": "oL7i65WYeq4"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "3",
+          "name": "NEXORA Core Ultra 7",
+          "price": 38999,
+          "thumbnail": "/src/assets/products/core-ultra7-front.png",
+          "stock": 13,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 38999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 33999,
+      "coupon": {
+        "id": "rwefi9iQPug",
+        "code": "NEXORA5000",
+        "type": "fixed",
+        "value": 5000,
+        "minOrder": 20000,
+        "maxDiscount": null
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-14T04:54:06.496Z",
+      "id": "adnm7k_wlxo"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "items": [
+        {
+          "id": "6",
+          "name": "NEXORA Precision X",
+          "price": 4999,
+          "thumbnail": "/src/assets/products/precision-x-angle.png",
+          "stock": 30,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Hisana Ismail",
+        "email": "hisanaismail55@gmail.com",
+        "phone": "9048334455",
+        "address": "Kaipamangalam Thrissur",
+        "city": "Thrissur",
+        "state": "Kerala",
+        "pincode": "680687"
+      },
+      "subtotal": 4999,
+      "discount": 200,
+      "shipping": 0,
+      "total": 4799,
+      "coupon": {
+        "id": "Jwb7adPGZoQ",
+        "code": "SAVE200",
+        "type": "fixed",
+        "value": 200,
+        "minOrder": 2000,
+        "maxDiscount": null
+      },
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_TnfYr8qcaFixki",
+      "status": "delivered",
+      "createdAt": "2026-10-14T05:16:00.146Z",
+      "id": "cp4i9GU7FNo"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 104999,
+          "quantity": 1,
+          "variantId": "1-32-1tb",
+          "variantLabel": "32GB / 1TB",
+          "variantAttributes": {
+            "RAM": "32GB",
+            "Storage": "1TB"
+          }
+        },
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 89999,
+          "quantity": 1,
+          "variantId": "1-16-512",
+          "variantLabel": "16GB / 512GB",
+          "variantAttributes": {
+            "RAM": "16GB",
+            "Storage": "512GB"
+          }
+        }
+      ],
+      "shippingAddress": {
+        "name": "Hisana Ismail",
+        "email": "hisanaismail55@gmail.com",
+        "phone": "9048334455",
+        "address": "Kaipamangalam Thrissur",
+        "city": "Thrissur",
+        "state": "Kerala",
+        "pincode": "680687"
+      },
+      "subtotal": 194998,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 189998,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-14T07:03:47.923Z",
+      "id": "PXw9sbjkZ5w"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 104999,
+          "quantity": 1,
+          "variantId": "1-32-1tb",
+          "variantLabel": "32GB / 1TB",
+          "variantAttributes": {
+            "RAM": "32GB",
+            "Storage": "1TB"
+          }
+        },
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 89999,
+          "quantity": 1,
+          "variantId": "1-16-512",
+          "variantLabel": "16GB / 512GB",
+          "variantAttributes": {
+            "RAM": "16GB",
+            "Storage": "512GB"
+          }
+        }
+      ],
+      "shippingAddress": {
+        "name": "Hisana Ismail",
+        "email": "hisanaismail55@gmail.com",
+        "phone": "9048334455",
+        "address": "Kaipamangalam Thrissur",
+        "city": "Thrissur",
+        "state": "Kerala",
+        "pincode": "680687"
+      },
+      "subtotal": 194998,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 189998,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-14T07:25:48.289Z",
+      "id": "H5mRLjfjiHE"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 89999,
+          "quantity": 1,
+          "variantId": "1-16-512",
+          "variantLabel": "16GB / 512GB",
+          "variantAttributes": {
+            "RAM": "16GB",
+            "Storage": "512GB"
+          }
+        }
+      ],
+      "shippingAddress": {
+        "name": "Hisana Ismail",
+        "email": "hisanaismail55@gmail.com",
+        "phone": "9048334455",
+        "address": "Kaipamangalam Thrissur",
+        "city": "Thrissur",
+        "state": "Kerala",
+        "pincode": "680687"
+      },
+      "subtotal": 89999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 84999,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-14T07:33:19.580Z",
+      "id": "N2wveybD6eg"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "items": [
+        {
+          "id": "12",
+          "name": "NEXORA RTX 5060",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20RTX%205060.png",
+          "price": 42999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        },
+        {
+          "id": "6",
+          "name": "NEXORA Precision X",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/precision-x-angle.png",
+          "price": 4999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        },
+        {
+          "id": "7",
+          "name": "NEXORA Immersive H7",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/immersive-h7-angle.png",
+          "price": 10999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "shippingAddress": {
+        "name": "sdds",
+        "email": "jj@mail.com",
+        "phone": "9234567890",
+        "address": "asasasas, yfh3, hdjkdhjkcd",
+        "city": "assa",
+        "state": "asas",
+        "pincode": "123456"
+      },
+      "subtotal": 58997,
+      "discount": 0,
+      "shipping": 0,
+      "total": 58997,
+      "coupon": null,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-14T08:12:52.403Z",
+      "id": "zPil66tubOI"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "10",
+          "name": "NEXORA Velocity 16",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20Velocity%2016.png",
+          "price": 94999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 94999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 89999,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-15T06:22:09.228Z",
+      "id": "dkpzlXbzexA"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [
+        {
+          "id": "9",
+          "name": "NEXORA Titan X15",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20Titan%20X15.png",
+          "price": 119999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null,
+          "returnEligible": false,
+          "returnWindowDays": 0,
+          "replacementEligible": false,
+          "replacementWindowDays": 0
+        }
+      ],
+      "shippingAddress": {
+        "name": "Vishnu VG",
+        "email": "vishnuvg167@gmail.com",
+        "phone": "8590254642",
+        "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682040"
+      },
+      "subtotal": 119999,
+      "discount": 0,
+      "shipping": 0,
+      "total": 119999,
+      "coupon": null,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-15T07:00:19.569Z",
+      "id": "Btqk_253nh8"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "items": [
+        {
+          "id": "11",
+          "name": "NEXORA EdgeBook 14",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20EdgeBook%2014.png",
+          "price": 74999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null,
+          "returnEligible": false,
+          "returnWindowDays": 0,
+          "replacementEligible": false,
+          "replacementWindowDays": 0
+        }
+      ],
+      "shippingAddress": {
+        "name": "Jacob Joy",
+        "email": "jj@mail.com",
+        "phone": "8590254642",
+        "address": "Sai sadan ,Nestle,old theater road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682015"
+      },
+      "subtotal": 74999,
+      "discount": 0,
+      "shipping": 0,
+      "total": 74999,
+      "coupon": null,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-15T08:54:41.683Z",
+      "id": "QFUmo7EbuK8",
+      "deliveredAt": "2026-10-15T08:55:01.449Z"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "items": [
+        {
+          "id": "13",
+          "name": "NEXORA RTX 5080",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20RTX%205080.png",
+          "price": 124999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null,
+          "returnEligible": false,
+          "returnWindowDays": 0,
+          "replacementEligible": false,
+          "replacementWindowDays": 0
+        }
+      ],
+      "shippingAddress": {
+        "name": "Jacob Joy",
+        "email": "jj@mail.com",
+        "phone": "8590254642",
+        "address": "Sai sadan ,Nestle,old theater road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682015"
+      },
+      "subtotal": 124999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 119999,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "paymentId": null,
+      "status": "cancelled",
+      "createdAt": "2026-10-15T09:16:30.620Z",
+      "id": "Uocqwj1EkvA"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/rtx5070-angle.png",
+          "price": 64999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null,
+          "returnEligible": true,
+          "returnWindowDays": 7,
+          "replacementEligible": true,
+          "replacementWindowDays": 7
+        }
+      ],
+      "shippingAddress": {
+        "name": "Jacob Joy",
+        "email": "jj@mail.com",
+        "phone": "8590254642",
+        "address": "Sai sadan ,Nestle,old theater road,Nettor",
+        "city": "Kochi",
+        "state": "Kerala",
+        "pincode": "682015"
+      },
+      "subtotal": 64999,
+      "discount": 5000,
+      "shipping": 0,
+      "total": 59999,
+      "coupon": {
+        "id": "coupon-nexora10",
+        "code": "NEXORA10",
+        "type": "percentage",
+        "value": 10,
+        "minOrder": 10000,
+        "maxDiscount": 5000
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "paymentId": null,
+      "status": "delivered",
+      "createdAt": "2026-10-15T09:18:51.396Z",
+      "id": "gUpmVMroZqY",
+      "deliveredAt": "2026-10-15T09:19:12.437Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-2",
+      "productId": "1",
+      "userId": "customer-102",
+      "userName": "Rahul Menon",
+      "rating": 4,
+      "title": "Very good overall",
+      "comment": "Really good performance and build quality. Setup was straightforward and I am happy with the purchase.",
+      "createdAt": "2026-09-20T14:15:00.000Z"
+    },
+    {
+      "id": "review-3",
+      "productId": "1",
+      "userId": "customer-103",
+      "userName": "Aditya S",
+      "rating": 5,
+      "title": "Worth the upgrade",
+      "comment": "A noticeable upgrade from my previous setup. Performance is fast, stable and exactly what I was looking for.",
+      "createdAt": "2026-09-12T08:45:00.000Z"
+    },
+    {
+      "productId": "2",
+      "userId": "PJWGbKyhGds",
+      "userName": "Vishnu",
+      "rating": 5,
+      "title": "best Graphics card",
+      "comment": "best product",
+      "createdAt": "2026-10-07T07:07:45.700Z",
+      "id": "hHXG3-4IpMs"
+    },
+    {
+      "productId": "2",
+      "userId": "3Ccgi25pTBI",
+      "userName": "Devika",
+      "rating": 5,
+      "title": "WORKS WONDERS",
+      "comment": "The cooling system in the NEXORA RTX5070  is the  best in class  in the industry , It's been  nearly. month  i haven't had any issues  .",
+      "createdAt": "2026-10-07T08:04:11.354Z",
+      "id": "Ww3Lhef3AIY"
+    }
+  ],
+  "carts": [
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [],
+      "id": "VgQWFGmfEGA"
+    },
+    {
+      "userId": "3Ccgi25pTBI",
+      "items": [],
+      "id": "yauuSt9WGN4"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "items": [],
+      "id": "FhE5X_M5R0Q"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "items": [],
+      "id": "K28MzrvaY8A"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "items": [],
+      "id": "k7XKILEAh_o"
+    }
+  ],
+  "addresses": [
+    {
+      "label": "Home",
+      "name": "Vishnu VG",
+      "phone": "8590254642",
+      "address": "Sai Sadan,Nestle,Old Theater Road,Nettor",
+      "city": "Kochi",
+      "state": "Kerala",
+      "pincode": "682040",
+      "userId": "PJWGbKyhGds",
+      "isDefault": true,
+      "id": "2AFRfJHmSJI"
+    },
+    {
+      "label": "Office",
+      "name": "Vishnu VG",
+      "phone": "8590254642",
+      "address": "Bridgeon Solutions,Alinchuvadu,Kakkanad",
+      "city": "Kochi",
+      "state": "Kerala",
+      "pincode": "682013",
+      "userId": "PJWGbKyhGds",
+      "isDefault": false,
+      "id": "gforomPeOxo"
+    },
+    {
+      "label": "Home",
+      "name": "Hisana Ismail",
+      "phone": "9048334455",
+      "address": "Kaipamangalam Thrissur",
+      "city": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680687",
+      "userId": "x0hOaDu36W8",
+      "isDefault": true,
+      "id": "jQiwfBBcmPo"
+    },
+    {
+      "label": "Home",
+      "name": "Jacob Joy",
+      "phone": "8590254642",
+      "address": "Sai sadan ,Nestle,old theater road,Nettor",
+      "city": "Kochi",
+      "state": "Kerala",
+      "pincode": "682015",
+      "userId": "X0VVtwDfiII",
+      "isDefault": true,
+      "id": "XhGlI1nAG4E"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coupon-nexora10",
+      "code": "NEXORA10",
+      "type": "percentage",
+      "value": 10,
+      "minOrder": 10000,
+      "maxDiscount": 5000,
+      "isActive": true,
+      "expiryDate": "2026-12-31T23:59:59.999Z",
+      "createdAt": "2026-10-13T06:30:00.000Z"
+    },
+    {
+      "id": "coupon-save2000",
+      "code": "SAVE2000",
+      "type": "fixed",
+      "value": 2000,
+      "minOrder": 25000,
+      "maxDiscount": null,
+      "isActive": true,
+      "expiryDate": "2026-11-30T23:59:59.999Z",
+      "createdAt": "2026-10-13T06:30:00.000Z"
+    },
+    {
+      "code": "NEXORA5000",
+      "type": "fixed",
+      "value": 5000,
+      "minOrder": 20000,
+      "maxDiscount": null,
+      "isActive": true,
+      "expiryDate": "2027-09-28T18:29:59.999Z",
+      "createdAt": "2026-10-13T09:00:45.629Z",
+      "id": "rwefi9iQPug"
+    },
+    {
+      "code": "SAVE200",
+      "type": "fixed",
+      "value": 200,
+      "minOrder": 2000,
+      "maxDiscount": null,
+      "isActive": false,
+      "expiryDate": "2026-12-13T18:29:59.999Z",
+      "createdAt": "2026-10-14T05:15:02.899Z",
+      "id": "Jwb7adPGZoQ"
+    }
+  ],
+  "returns": [
+    {
+      "userId": "PJWGbKyhGds",
+      "orderId": "HJUkJQDp8YI",
+      "items": [
+        {
+          "id": "4",
+          "name": "NEXORA UltraView 27",
+          "price": 32999,
+          "thumbnail": "/src/assets/products/ultraview27-front.png",
+          "stock": 11,
+          "quantity": 1
+        }
+      ],
+      "reason": "defective",
+      "details": "The monitor has a display issue and flickers during use.",
+      "status": "completed",
+      "refundStatus": "refunded",
+      "createdAt": "2026-10-13T09:28:31.982Z",
+      "id": "vawbCihQDAQ",
+      "inspectionResult": "defective",
+      "inspectionNote": "Confirmed display flickering during inspection. Product is defective and cannot be returned to sellable inventory.",
+      "inspectedAt": "2026-10-13T10:47:49.035Z",
+      "stockRestored": false,
+      "inspectionUpdatedAt": "2026-10-13T10:56:52.846Z",
+      "inspectionUpdatedReason": "Confirmed display flickering during inspection. Product is defective and cannot be returned to sellable inventory.",
+      "refundAmount": 29699.1,
+      "refundStartedAt": "2026-10-14T04:50:45.678Z",
+      "refundedAt": "2026-10-14T04:50:55.467Z"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "orderId": "adnm7k_wlxo",
+      "items": [
+        {
+          "id": "3",
+          "name": "NEXORA Core Ultra 7",
+          "price": 38999,
+          "thumbnail": "/src/assets/products/core-ultra7-front.png",
+          "stock": 13,
+          "quantity": 1
+        }
+      ],
+      "reason": "wrong_item",
+      "details": "the product is not the one I ordered",
+      "status": "completed",
+      "refundStatus": "refunded",
+      "createdAt": "2026-10-14T04:55:57.421Z",
+      "id": "buopCJyaxKM",
+      "inspectionResult": "resellable",
+      "inspectionNote": "no problem with the product",
+      "inspectedAt": "2026-10-14T04:57:23.684Z",
+      "stockRestored": true,
+      "refundAmount": 33999,
+      "refundStartedAt": "2026-10-14T04:57:40.757Z",
+      "refundedAt": "2026-10-14T04:57:52.627Z"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "orderId": "cp4i9GU7FNo",
+      "items": [
+        {
+          "id": "6",
+          "name": "NEXORA Precision X",
+          "price": 4999,
+          "thumbnail": "/src/assets/products/precision-x-angle.png",
+          "stock": 30,
+          "quantity": 1
+        }
+      ],
+      "reason": "not_as_described",
+      "details": "not as describe",
+      "status": "completed",
+      "refundStatus": "refunded",
+      "createdAt": "2026-10-14T05:17:51.010Z",
+      "id": "F_FzYA_5GZM",
+      "inspectionResult": "resellable",
+      "inspectionNote": "The product sent was not as described",
+      "inspectedAt": "2026-10-14T05:19:52.616Z",
+      "stockRestored": true,
+      "refundAmount": 4799,
+      "refundStartedAt": "2026-10-14T05:20:21.982Z",
+      "refundedAt": "2026-10-14T05:20:27.637Z"
+    },
+    {
+      "userId": "x0hOaDu36W8",
+      "orderId": "N2wveybD6eg",
+      "items": [
+        {
+          "id": "1",
+          "name": "NEXORA Pro Gaming Laptop",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/nexora-pro-angle.png",
+          "price": 89999,
+          "quantity": 1,
+          "variantId": "1-16-512",
+          "variantLabel": "16GB / 512GB",
+          "variantAttributes": {
+            "RAM": "16GB",
+            "Storage": "512GB"
+          }
+        }
+      ],
+      "reason": "wrong_item",
+      "details": "The variant is not I needed now",
+      "status": "completed",
+      "refundStatus": "refunded",
+      "createdAt": "2026-10-14T07:34:18.591Z",
+      "id": "sQ9UYHRsiIk",
+      "inspectionResult": "resellable",
+      "inspectionNote": "It is resellable",
+      "inspectedAt": "2026-10-14T07:35:49.267Z",
+      "stockRestored": true,
+      "refundAmount": 84999,
+      "refundStartedAt": "2026-10-14T07:36:06.468Z",
+      "refundedAt": "2026-10-14T07:36:10.811Z"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "orderId": "zPil66tubOI",
+      "items": [
+        {
+          "id": "12",
+          "name": "NEXORA RTX 5060",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/NEXORA%20RTX%205060.png",
+          "price": 42999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        },
+        {
+          "id": "6",
+          "name": "NEXORA Precision X",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/precision-x-angle.png",
+          "price": 4999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        },
+        {
+          "id": "7",
+          "name": "NEXORA Immersive H7",
+          "brand": "NEXORA",
+          "category": "",
+          "thumbnail": "/src/assets/products/immersive-h7-angle.png",
+          "price": 10999,
+          "quantity": 1,
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "reason": "other",
+      "details": "I dont want the products now",
+      "status": "rejected",
+      "refundStatus": "not_started",
+      "createdAt": "2026-10-14T08:15:01.525Z",
+      "id": "3sbsIyOJGxw"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "orderId": "zPil66tubOI",
+      "items": [
+        {
+          "id": "6",
+          "name": "NEXORA Precision X",
+          "brand": "NEXORA",
+          "price": 4999,
+          "quantity": 1,
+          "thumbnail": "/src/assets/products/precision-x-angle.png",
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "reason": "other",
+      "details": "I accidentally purchased this product",
+      "status": "completed",
+      "refundStatus": "refunded",
+      "createdAt": "2026-10-14T09:55:17.428Z",
+      "id": "riEhuVAz5xg",
+      "inspectionResult": "resellable",
+      "inspectionNote": "It can be sellable",
+      "inspectedAt": "2026-10-14T10:23:18.886Z",
+      "stockRestored": true,
+      "refundAmount": 4999,
+      "refundBreakdown": {
+        "returnedItemsSubtotal": 4999,
+        "orderSubtotal": 58997,
+        "orderDiscount": 0,
+        "returnedShare": 0.084733,
+        "allocatedDiscount": 0,
+        "shippingRefund": 0,
+        "finalRefundAmount": 4999,
+        "items": [
+          {
+            "productId": "6",
+            "name": "NEXORA Precision X",
+            "variantId": null,
+            "variantLabel": null,
+            "quantity": 1,
+            "unitPrice": 4999,
+            "lineSubtotal": 4999
+          }
+        ]
+      },
+      "refundStartedAt": "2026-10-14T10:24:49.621Z",
+      "refundedAt": "2026-10-14T10:24:53.089Z"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "orderId": "dkpzlXbzexA",
+      "items": [
+        {
+          "id": "10",
+          "name": "NEXORA Velocity 16",
+          "brand": "NEXORA",
+          "price": 94999,
+          "quantity": 1,
+          "thumbnail": "/src/assets/products/NEXORA%20Velocity%2016.png",
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "reason": "other",
+      "details": "The product package was opened",
+      "status": "requested",
+      "refundStatus": "not_started",
+      "createdAt": "2026-10-15T06:29:54.450Z",
+      "id": "CUK4eRPZLQY"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "orderId": "Btqk_253nh8",
+      "items": [
+        {
+          "id": "9",
+          "name": "NEXORA Titan X15",
+          "brand": "NEXORA",
+          "price": 119999,
+          "quantity": 1,
+          "thumbnail": "/src/assets/products/NEXORA%20Titan%20X15.png",
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null
+        }
+      ],
+      "reason": "wrong_item",
+      "details": "this is not the product needed",
+      "status": "received",
+      "refundStatus": "not_started",
+      "createdAt": "2026-10-15T07:03:25.778Z",
+      "id": "mBImv_kPnO8"
+    }
+  ],
+  "inventoryAdjustments": [
+    {
+      "productId": "3",
+      "productName": "NEXORA Core Ultra 7",
+      "productCategory": "Processors",
+      "type": "remove",
+      "quantity": 3,
+      "previousStock": 13,
+      "newStock": 10,
+      "reason": "Damaged products",
+      "createdAt": "2026-10-14T06:16:44.264Z",
+      "id": "luKyJCdP024"
+    },
+    {
+      "productId": "2",
+      "productName": "NEXORA RTX 5070",
+      "productCategory": "Graphics Cards",
+      "type": "add",
+      "quantity": 5,
+      "previousStock": 10,
+      "newStock": 15,
+      "reason": "New supplier shipment received",
+      "createdAt": "2026-10-14T06:36:03.237Z",
+      "id": "SfShq-GOCiA"
+    },
+    {
+      "productId": "1",
+      "productName": "NEXORA Pro Gaming Laptop",
+      "productCategory": "Laptops",
+      "variantId": "1-32-1tb",
+      "variantLabel": "32GB / 1TB",
+      "type": "add",
+      "quantity": 3,
+      "previousStock": 5,
+      "newStock": 8,
+      "previousProductStock": 25,
+      "newProductStock": 28,
+      "reason": "Stock Update",
+      "createdAt": "2026-10-14T11:25:00.724Z",
+      "id": "yaFVoscBNd0"
+    },
+    {
+      "productId": "9",
+      "productName": "NEXORA Titan X15",
+      "productCategory": "Laptops",
+      "variantId": null,
+      "variantLabel": null,
+      "type": "remove",
+      "quantity": 5,
+      "previousStock": 5,
+      "newStock": 0,
+      "previousProductStock": 5,
+      "newProductStock": 0,
+      "reason": "remiving",
+      "createdAt": "2026-10-15T07:11:43.122Z",
+      "id": "p-I2VKEpUgg"
+    }
+  ],
+  "wishlists": [],
+  "notifications": [
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Order is being processed",
+      "message": "Your order #ZLXBZEXA is now being prepared.",
+      "referenceId": "dkpzlXbzexA",
+      "referenceType": "order",
+      "isRead": true,
+      "createdAt": "2026-10-15T06:22:27.159Z",
+      "id": "eI28OfJucN8"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Your order has shipped",
+      "message": "Your order #ZLXBZEXA has been shipped and is on the way.",
+      "referenceId": "dkpzlXbzexA",
+      "referenceType": "order",
+      "isRead": true,
+      "createdAt": "2026-10-15T06:26:07.019Z",
+      "id": "H7j3eyQ52Ho"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Order delivered",
+      "message": "Your order #ZLXBZEXA has been delivered successfully.",
+      "referenceId": "dkpzlXbzexA",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T06:29:03.954Z",
+      "id": "MJSeikx3PRg"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Order is being processed",
+      "message": "Your order #K_253NH8 is now being prepared.",
+      "referenceId": "Btqk_253nh8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T07:00:44.794Z",
+      "id": "alKvLU2c_14"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Your order has shipped",
+      "message": "Your order #K_253NH8 has been shipped and is on the way.",
+      "referenceId": "Btqk_253nh8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T07:01:03.319Z",
+      "id": "LndJzIR0xkA"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "order",
+      "title": "Order delivered",
+      "message": "Your order #K_253NH8 has been delivered successfully.",
+      "referenceId": "Btqk_253nh8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T07:01:24.555Z",
+      "id": "Itmkbk9yyGo"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "return",
+      "title": "Return approved",
+      "message": "Your return request #MV_KPNO8 has been approved.",
+      "referenceId": "mBImv_kPnO8",
+      "referenceType": "return",
+      "orderId": "Btqk_253nh8",
+      "isRead": false,
+      "createdAt": "2026-10-15T07:03:41.945Z",
+      "id": "4btzXS5uQYY"
+    },
+    {
+      "userId": "PJWGbKyhGds",
+      "type": "return",
+      "title": "Returned items received",
+      "message": "We have received the items for return #MV_KPNO8.",
+      "referenceId": "mBImv_kPnO8",
+      "referenceType": "return",
+      "orderId": "Btqk_253nh8",
+      "isRead": false,
+      "createdAt": "2026-10-15T07:04:18.996Z",
+      "id": "g73j9YMufNc"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Order is being processed",
+      "message": "Your order #MO7EBUK8 is now being prepared.",
+      "referenceId": "QFUmo7EbuK8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T08:54:55.027Z",
+      "id": "TRlZF-uifSE"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Your order has shipped",
+      "message": "Your order #MO7EBUK8 has been shipped and is on the way.",
+      "referenceId": "QFUmo7EbuK8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T08:54:57.235Z",
+      "id": "ysji5VvbOoA"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Order delivered",
+      "message": "Your order #MO7EBUK8 has been delivered successfully.",
+      "referenceId": "QFUmo7EbuK8",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T08:55:01.462Z",
+      "id": "gv2pejU6VL0"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Order is being processed",
+      "message": "Your order #MVMROZQY is now being prepared.",
+      "referenceId": "gUpmVMroZqY",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:19:03.198Z",
+      "id": "Lvj5ApE9riM"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Your order has shipped",
+      "message": "Your order #MVMROZQY has been shipped and is on the way.",
+      "referenceId": "gUpmVMroZqY",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:19:05.243Z",
+      "id": "2elGedFA8oE"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "order",
+      "title": "Order delivered",
+      "message": "Your order #MVMROZQY has been delivered successfully.",
+      "referenceId": "gUpmVMroZqY",
+      "referenceType": "order",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:19:12.462Z",
+      "id": "8mfyH-z2ebg"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "replacement",
+      "title": "Replacement approved",
+      "message": "Your replacement request #0T71NHO4 has been approved.",
+      "referenceId": "qSB0t71Nho4",
+      "referenceType": "replacement",
+      "orderId": "gUpmVMroZqY",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:21:55.291Z",
+      "id": "a4fpuVAiIOg"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "replacement",
+      "title": "Returned item received",
+      "message": "We have received the original item for replacement #0T71NHO4.",
+      "referenceId": "qSB0t71Nho4",
+      "referenceType": "replacement",
+      "orderId": "gUpmVMroZqY",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:22:16.722Z",
+      "id": "Yu5VWavvIy8"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "replacement",
+      "title": "Replacement inspection completed",
+      "message": "Inspection for replacement #0T71NHO4 has been completed.",
+      "referenceId": "qSB0t71Nho4",
+      "referenceType": "replacement",
+      "orderId": "gUpmVMroZqY",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:23:19.005Z",
+      "id": "9Sxb3EKH10Q"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "replacement",
+      "title": "Replacement shipped",
+      "message": "Your replacement for request #0T71NHO4 has been shipped.",
+      "referenceId": "qSB0t71Nho4",
+      "referenceType": "replacement",
+      "orderId": "gUpmVMroZqY",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:23:47.175Z",
+      "id": "tdBWtKXxYt0"
+    },
+    {
+      "userId": "X0VVtwDfiII",
+      "type": "replacement",
+      "title": "Replacement delivered",
+      "message": "Your replacement for request #0T71NHO4 has been delivered.",
+      "referenceId": "qSB0t71Nho4",
+      "referenceType": "replacement",
+      "orderId": "gUpmVMroZqY",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:24:03.534Z",
+      "id": "S0Zm_RS7JOE"
+    }
+  ],
+  "replacements": [
+    {
+      "userId": "X0VVtwDfiII",
+      "orderId": "gUpmVMroZqY",
+      "items": [
+        {
+          "id": "2",
+          "name": "NEXORA RTX 5070",
+          "brand": "NEXORA",
+          "price": 64999,
+          "quantity": 1,
+          "thumbnail": "/src/assets/products/rtx5070-angle.png",
+          "variantId": null,
+          "variantLabel": null,
+          "variantAttributes": null,
+          "replacementEligible": true,
+          "replacementWindowDays": 7
+        }
+      ],
+      "reason": "defective",
+      "details": "This Product was defective when arrived",
+      "status": "delivered",
+      "inspectionResult": "defective",
+      "inspectionNote": "The product got damaged from transit",
+      "stockRestored": false,
+      "replacementStockDeducted": true,
+      "requestedAt": "2026-10-15T09:19:59.978Z",
+      "approvedAt": "2026-10-15T09:21:55.267Z",
+      "receivedAt": "2026-10-15T09:22:16.702Z",
+      "inspectedAt": "2026-10-15T09:23:18.988Z",
+      "shippedAt": "2026-10-15T09:23:47.164Z",
+      "deliveredAt": "2026-10-15T09:24:03.510Z",
+      "createdAt": "2026-10-15T09:19:59.978Z",
+      "updatedAt": "2026-10-15T09:24:03.510Z",
+      "id": "qSB0t71Nho4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
